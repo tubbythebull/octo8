@@ -1,0 +1,1000 @@
+{
+ "residential-crystal-elevator": [
+  {
+   "name": "crystal-elevator-modern-landing",
+   "alt": "Crystal Elevator with warm wood door opening onto a modern upper landing with glass railings",
+   "role": "hero",
+   "source": "Crystal_Res/img-000.jpg",
+   "files": [
+    [
+     "crystal-elevator-modern-landing.webp",
+     [
+      1229,
+      936
+     ],
+     43078
+    ],
+    [
+     "crystal-elevator-modern-landing-800w.webp",
+     [
+      800,
+      609
+     ],
+     24876
+    ]
+   ]
+  },
+  {
+   "name": "crystal-elevator-glass-shaft-kitchen",
+   "alt": "Glass-and-black-frame Crystal Elevator shaft beside an open staircase and kitchen",
+   "role": "gallery",
+   "source": "Crystal_Res/img-001.jpg",
+   "files": [
+    [
+     "crystal-elevator-glass-shaft-kitchen.webp",
+     [
+      1082,
+      721
+     ],
+     47406
+    ],
+    [
+     "crystal-elevator-glass-shaft-kitchen-800w.webp",
+     [
+      800,
+      533
+     ],
+     30372
+    ]
+   ]
+  },
+  {
+   "name": "crystal-elevator-multi-storey-cutaway",
+   "alt": "Cutaway illustration of a Crystal Elevator serving four levels of a home, from garage to rooftop lounge",
+   "role": "gallery",
+   "source": "Crystal_Res/img-002.jpg",
+   "files": [
+    [
+     "crystal-elevator-multi-storey-cutaway.webp",
+     [
+      527,
+      864
+     ],
+     51298
+    ]
+   ]
+  },
+  {
+   "name": "crystal-elevator-drive-system",
+   "alt": "Crystal Elevator rail frame and counterbalanced traction drive",
+   "role": "cutout",
+   "source": "Crystal_Res/img-003.jpg",
+   "files": [
+    [
+     "crystal-elevator-drive-system.webp",
+     [
+      184,
+      686
+     ],
+     31402
+    ]
+   ]
+  },
+  {
+   "name": "crystal-elevator-open-concept-home",
+   "alt": "Crystal Elevator tucked discreetly at the end of a bright open-concept kitchen",
+   "role": "gallery",
+   "source": "Crystal_Res/img-005.jpg",
+   "files": [
+    [
+     "crystal-elevator-open-concept-home.webp",
+     [
+      523,
+      348
+     ],
+     11218
+    ]
+   ]
+  },
+  {
+   "name": "crystal-elevator-wood-cab-interior",
+   "alt": "Crystal Elevator cab with rich wood panelling and ceiling lights",
+   "role": "gallery",
+   "source": "Crystal_Res/img-006.jpg",
+   "files": [
+    [
+     "crystal-elevator-wood-cab-interior.webp",
+     [
+      523,
+      349
+     ],
+     15894
+    ]
+   ]
+  }
+ ],
+ "commercial-crystal-lift": [
+  {
+   "name": "crystal-lift-stainless-entrance",
+   "alt": "Commercial Crystal Lift with stainless steel frame and wood-panelled cab in an office corridor",
+   "role": "hero",
+   "source": "Crystal_Com/img-000.jpg",
+   "files": [
+    [
+     "crystal-lift-stainless-entrance.webp",
+     [
+      1229,
+      932
+     ],
+     52424
+    ],
+    [
+     "crystal-lift-stainless-entrance-800w.webp",
+     [
+      800,
+      607
+     ],
+     25606
+    ]
+   ]
+  },
+  {
+   "name": "crystal-lift-heritage-stairwell",
+   "alt": "Crystal Lift installed beside a heritage wooden staircase",
+   "role": "gallery",
+   "source": "Crystal_Com/img-001.jpg",
+   "files": [
+    [
+     "crystal-lift-heritage-stairwell.webp",
+     [
+      1082,
+      721
+     ],
+     33598
+    ],
+    [
+     "crystal-lift-heritage-stairwell-800w.webp",
+     [
+      800,
+      533
+     ],
+     19970
+    ]
+   ]
+  },
+  {
+   "name": "crystal-lift-commercial-cutaway",
+   "alt": "Cutaway illustration of a Crystal Lift connecting floors of a commercial building",
+   "role": "gallery",
+   "source": "Crystal_Com/img-002.jpg",
+   "files": [
+    [
+     "crystal-lift-commercial-cutaway.webp",
+     [
+      523,
+      688
+     ],
+     41332
+    ]
+   ]
+  },
+  {
+   "name": "crystal-lift-glass-atrium",
+   "alt": "Glass-enclosed Crystal Lift in a bright stairwell atrium",
+   "role": "gallery",
+   "source": "Crystal_Com/img-007.jpg",
+   "files": [
+    [
+     "crystal-lift-glass-atrium.webp",
+     [
+      525,
+      630
+     ],
+     59234
+    ]
+   ]
+  },
+  {
+   "name": "crystal-lift-drive-system",
+   "alt": "Crystal Lift rail frame and traction drive",
+   "role": "cutout",
+   "source": "Crystal_Com/img-005.jpg",
+   "files": [
+    [
+     "crystal-lift-drive-system.webp",
+     [
+      141,
+      520
+     ],
+     22458
+    ]
+   ]
+  }
+ ],
+ "residential-stratus-elevator": [
+  {
+   "name": "stratus-elevator-wood-glass-cab",
+   "alt": "Stratus Elevator cab with wood panelling, glass walls and illuminated call buttons",
+   "role": "hero",
+   "source": "Stratus_Res/img-000.jpg",
+   "files": [
+    [
+     "stratus-elevator-wood-glass-cab.webp",
+     [
+      1229,
+      936
+     ],
+     104328
+    ],
+    [
+     "stratus-elevator-wood-glass-cab-800w.webp",
+     [
+      800,
+      609
+     ],
+     40992
+    ]
+   ]
+  },
+  {
+   "name": "stratus-elevator-open-door",
+   "alt": "Stratus Elevator with its wood-and-glass landing door open",
+   "role": "gallery",
+   "source": "Stratus_Res/img-001.jpg",
+   "files": [
+    [
+     "stratus-elevator-open-door.webp",
+     [
+      522,
+      696
+     ],
+     28424
+    ]
+   ]
+  },
+  {
+   "name": "stratus-elevator-wood-tower",
+   "alt": "Stratus Elevator shaft finished in wood trim and glass",
+   "role": "gallery",
+   "source": "Stratus_Res/img-002.jpg",
+   "files": [
+    [
+     "stratus-elevator-wood-tower.webp",
+     [
+      522,
+      696
+     ],
+     22602
+    ]
+   ]
+  },
+  {
+   "name": "stratus-elevator-two-storey-cutaway",
+   "alt": "Cutaway illustration of a Stratus Elevator connecting two floors of a home",
+   "role": "gallery",
+   "source": "Stratus_Res/img-003.jpg",
+   "files": [
+    [
+     "stratus-elevator-two-storey-cutaway.webp",
+     [
+      527,
+      862
+     ],
+     22646
+    ]
+   ]
+  },
+  {
+   "name": "stratus-elevator-drive-system",
+   "alt": "Stratus Elevator cab and rail frame",
+   "role": "cutout",
+   "source": "Stratus_Res/img-005.jpg",
+   "files": [
+    [
+     "stratus-elevator-drive-system.webp",
+     [
+      228,
+      631
+     ],
+     34158
+    ]
+   ]
+  },
+  {
+   "name": "stratus-elevator-home-cutaway",
+   "alt": "Cutaway illustration of a two-storey home with a Stratus Elevator next to the garage",
+   "role": "banner",
+   "source": "Stratus_Res/img-009.jpg",
+   "files": [
+    [
+     "stratus-elevator-home-cutaway.webp",
+     [
+      1094,
+      512
+     ],
+     90640
+    ],
+    [
+     "stratus-elevator-home-cutaway-800w.webp",
+     [
+      800,
+      374
+     ],
+     47906
+    ]
+   ]
+  },
+  {
+   "name": "stratus-elevator-craftsman-door",
+   "alt": "Craftsman-style wood and glass landing door on a Stratus Elevator",
+   "role": "gallery",
+   "source": "Stratus_Res/img-010.jpg",
+   "files": [
+    [
+     "stratus-elevator-craftsman-door.webp",
+     [
+      525,
+      701
+     ],
+     25692
+    ]
+   ]
+  }
+ ],
+ "commercial-stratus-lift": [
+  {
+   "name": "stratus-lift-modern-stairwell",
+   "alt": "Commercial Stratus Lift with a glass door beside a modern black stairwell",
+   "role": "hero",
+   "source": "Stratus_Com/img-000.jpg",
+   "files": [
+    [
+     "stratus-lift-modern-stairwell.webp",
+     [
+      1229,
+      936
+     ],
+     79060
+    ],
+    [
+     "stratus-lift-modern-stairwell-800w.webp",
+     [
+      800,
+      609
+     ],
+     41056
+    ]
+   ]
+  },
+  {
+   "name": "stratus-lift-office-lobby",
+   "alt": "Stratus Lift in a contemporary office lobby with wood floors",
+   "role": "gallery",
+   "source": "Stratus_Com/img-001.jpg",
+   "files": [
+    [
+     "stratus-lift-office-lobby.webp",
+     [
+      1082,
+      721
+     ],
+     52014
+    ],
+    [
+     "stratus-lift-office-lobby-800w.webp",
+     [
+      800,
+      533
+     ],
+     32122
+    ]
+   ]
+  },
+  {
+   "name": "stratus-lift-office-cutaway",
+   "alt": "Cutaway illustration of a Stratus Lift connecting two office floors",
+   "role": "gallery",
+   "source": "Stratus_Com/img-002.jpg",
+   "files": [
+    [
+     "stratus-lift-office-cutaway.webp",
+     [
+      528,
+      861
+     ],
+     77376
+    ]
+   ]
+  },
+  {
+   "name": "stratus-lift-drive-system",
+   "alt": "Commercial Stratus Lift cab and rail frame",
+   "role": "cutout",
+   "source": "Stratus_Com/img-003.jpg",
+   "files": [
+    [
+     "stratus-lift-drive-system.webp",
+     [
+      255,
+      691
+     ],
+     38016
+    ]
+   ]
+  },
+  {
+   "name": "stratus-lift-building-cutaway",
+   "alt": "Cutaway illustration of a low-rise commercial building with Stratus Lifts",
+   "role": "banner",
+   "source": "Stratus_Com/img-006.jpg",
+   "files": [
+    [
+     "stratus-lift-building-cutaway.webp",
+     [
+      1083,
+      438
+     ],
+     90572
+    ],
+    [
+     "stratus-lift-building-cutaway-800w.webp",
+     [
+      800,
+      324
+     ],
+     48358
+    ]
+   ]
+  },
+  {
+   "name": "stratus-lift-control-panel",
+   "alt": "Close-up of Stratus Lift floor buttons and emergency stop",
+   "role": "gallery",
+   "source": "Stratus_Com/img-007.jpg",
+   "files": [
+    [
+     "stratus-lift-control-panel.webp",
+     [
+      522,
+      351
+     ],
+     6866
+    ]
+   ]
+  },
+  {
+   "name": "stratus-lift-landing-entrance",
+   "alt": "Stratus Lift landing entrance in a commercial corridor",
+   "role": "gallery",
+   "source": "Stratus_Com/img-008.jpg",
+   "files": [
+    [
+     "stratus-lift-landing-entrance.webp",
+     [
+      523,
+      349
+     ],
+     15214
+    ]
+   ]
+  }
+ ],
+ "residential-flex-lift": [
+  {
+   "name": "flex-lift-front-porch",
+   "alt": "Flex Lift wheelchair platform lift raising to a home's front porch",
+   "role": "hero",
+   "source": "FlexRes/img-000.jpg",
+   "files": [
+    [
+     "flex-lift-front-porch.webp",
+     [
+      1560,
+      1302
+     ],
+     95608
+    ],
+    [
+     "flex-lift-front-porch-800w.webp",
+     [
+      800,
+      668
+     ],
+     38306
+    ]
+   ]
+  },
+  {
+   "name": "flex-lift-patio-deck",
+   "alt": "Flex Lift on a backyard patio deck",
+   "role": "gallery",
+   "source": "FlexRes/img-097.jpg",
+   "files": [
+    [
+     "flex-lift-patio-deck.webp",
+     [
+      1088,
+      725
+     ],
+     79486
+    ],
+    [
+     "flex-lift-patio-deck-800w.webp",
+     [
+      800,
+      533
+     ],
+     47122
+    ]
+   ]
+  },
+  {
+   "name": "flex-lift-backyard-entrance",
+   "alt": "Flex Lift with open gate at a home's side entrance",
+   "role": "gallery",
+   "source": "FlexRes/img-098.jpg",
+   "files": [
+    [
+     "flex-lift-backyard-entrance.webp",
+     [
+      1088,
+      725
+     ],
+     195598
+    ],
+    [
+     "flex-lift-backyard-entrance-800w.webp",
+     [
+      800,
+      533
+     ],
+     107328
+    ]
+   ]
+  },
+  {
+   "name": "flex-lift-porch-stairs",
+   "alt": "Flex Lift installed beside front porch stairs",
+   "role": "gallery",
+   "source": "FlexRes/img-099.jpg",
+   "files": [
+    [
+     "flex-lift-porch-stairs.webp",
+     [
+      1088,
+      725
+     ],
+     109322
+    ],
+    [
+     "flex-lift-porch-stairs-800w.webp",
+     [
+      800,
+      533
+     ],
+     66204
+    ]
+   ]
+  },
+  {
+   "name": "flex-lift-aluminum-glass-enclosure",
+   "alt": "Flex Lift in an aluminum and glass enclosure against a brick exterior",
+   "role": "gallery",
+   "source": "FlexRes/img-090.jpg",
+   "files": [
+    [
+     "flex-lift-aluminum-glass-enclosure.webp",
+     [
+      960,
+      1199
+     ],
+     147950
+    ],
+    [
+     "flex-lift-aluminum-glass-enclosure-800w.webp",
+     [
+      800,
+      999
+     ],
+     111232
+    ]
+   ]
+  },
+  {
+   "name": "flex-lift-platform",
+   "alt": "Flex Lift platform with Soft Touch paddle controls",
+   "role": "cutout",
+   "source": "FlexRes/img-093.jpg",
+   "files": [
+    [
+     "flex-lift-platform.webp",
+     [
+      839,
+      1000
+     ],
+     26182
+    ],
+    [
+     "flex-lift-platform-800w.webp",
+     [
+      800,
+      954
+     ],
+     30862
+    ]
+   ]
+  },
+  {
+   "name": "flex-lift-straight-through",
+   "alt": "Flex Lift straight-through platform configuration",
+   "role": "cutout-white",
+   "source": "FlexRes/img-001.jpg",
+   "files": [
+    [
+     "flex-lift-straight-through.webp",
+     [
+      388,
+      478
+     ],
+     6228
+    ]
+   ]
+  },
+  {
+   "name": "flex-lift-90-degree",
+   "alt": "Flex Lift 90-degree access platform configuration",
+   "role": "cutout-white",
+   "source": "FlexRes/img-006.jpg",
+   "files": [
+    [
+     "flex-lift-90-degree.webp",
+     [
+      447,
+      499
+     ],
+     5946
+    ]
+   ]
+  }
+ ],
+ "commercial-flex-lift": [
+  {
+   "name": "flex-lift-heritage-building",
+   "alt": "Flex Lift with glass gate in a heritage brick building",
+   "role": "hero",
+   "source": "FlexCom/img-000.jpg",
+   "files": [
+    [
+     "flex-lift-heritage-building.webp",
+     [
+      1600,
+      1218
+     ],
+     324976
+    ],
+    [
+     "flex-lift-heritage-building-800w.webp",
+     [
+      800,
+      609
+     ],
+     107878
+    ]
+   ]
+  },
+  {
+   "name": "flex-lift-public-station",
+   "alt": "Stainless Flex Lift at a public building entrance beside stairs and ramp",
+   "role": "gallery",
+   "source": "FlexCom/img-095.jpg",
+   "files": [
+    [
+     "flex-lift-public-station.webp",
+     [
+      1440,
+      960
+     ],
+     159284
+    ],
+    [
+     "flex-lift-public-station-800w.webp",
+     [
+      800,
+      533
+     ],
+     48518
+    ]
+   ]
+  },
+  {
+   "name": "flex-lift-outdoor-cutaway",
+   "alt": "Cutaway illustration of a Flex Lift connecting an outdoor entrance to a building",
+   "role": "gallery",
+   "source": "FlexCom/img-094.jpg",
+   "files": [
+    [
+     "flex-lift-outdoor-cutaway.webp",
+     [
+      991,
+      1302
+     ],
+     195192
+    ],
+    [
+     "flex-lift-outdoor-cutaway-800w.webp",
+     [
+      800,
+      1051
+     ],
+     140646
+    ]
+   ]
+  },
+  {
+   "name": "flex-lift-aluminum-glass-enclosure",
+   "alt": "Flex Lift in an aluminum and glass enclosure against a brick exterior",
+   "role": "gallery",
+   "source": "FlexCom/img-091.jpg",
+   "files": [
+    [
+     "flex-lift-aluminum-glass-enclosure.webp",
+     [
+      960,
+      1199
+     ],
+     147950
+    ],
+    [
+     "flex-lift-aluminum-glass-enclosure-800w.webp",
+     [
+      800,
+      999
+     ],
+     111232
+    ]
+   ]
+  },
+  {
+   "name": "flex-lift-platform",
+   "alt": "Flex Lift platform with Soft Touch paddle controls",
+   "role": "cutout-white",
+   "source": "FlexCom/img-077.jpg",
+   "files": [
+    [
+     "flex-lift-platform.webp",
+     [
+      949,
+      1189
+     ],
+     17976
+    ],
+    [
+     "flex-lift-platform-800w.webp",
+     [
+      800,
+      1002
+     ],
+     14400
+    ]
+   ]
+  },
+  {
+   "name": "flex-lift-straight-through",
+   "alt": "Flex Lift straight-through platform configuration",
+   "role": "cutout-white",
+   "source": "FlexCom/img-001.jpg",
+   "files": [
+    [
+     "flex-lift-straight-through.webp",
+     [
+      388,
+      478
+     ],
+     6228
+    ]
+   ]
+  },
+  {
+   "name": "flex-lift-90-degree",
+   "alt": "Flex Lift 90-degree access platform configuration",
+   "role": "cutout-white",
+   "source": "FlexCom/img-006.jpg",
+   "files": [
+    [
+     "flex-lift-90-degree.webp",
+     [
+      447,
+      499
+     ],
+     5946
+    ]
+   ]
+  }
+ ],
+ "ascenda-home-elevator": [
+  {
+   "name": "ascenda-two-storey-cutaway",
+   "alt": "Ascenda glass elevator travelling through the floor from a living room to a bedroom",
+   "role": "hero",
+   "source": "Ascenda/img-000.jpg",
+   "files": [
+    [
+     "ascenda-two-storey-cutaway.webp",
+     [
+      1280,
+      1655
+     ],
+     144122
+    ],
+    [
+     "ascenda-two-storey-cutaway-800w.webp",
+     [
+      800,
+      1034
+     ],
+     66662
+    ]
+   ]
+  },
+  {
+   "name": "ascenda-bedroom",
+   "alt": "Black-frame Ascenda elevator in a bright bedroom beside the closet",
+   "role": "banner",
+   "source": "Ascenda/img-019.jpg",
+   "files": [
+    [
+     "ascenda-bedroom.webp",
+     [
+      1278,
+      480
+     ],
+     57228
+    ],
+    [
+     "ascenda-bedroom-800w.webp",
+     [
+      800,
+      300
+     ],
+     26998
+    ]
+   ]
+  },
+  {
+   "name": "ascenda-illuminated-tower",
+   "alt": "Ascenda glass mast and cabin glowing with guiderail lighting at night",
+   "role": "gallery",
+   "source": "Ascenda/img-027.jpg",
+   "files": [
+    [
+     "ascenda-illuminated-tower.webp",
+     [
+      1280,
+      1655
+     ],
+     20878
+    ],
+    [
+     "ascenda-illuminated-tower-800w.webp",
+     [
+      800,
+      1034
+     ],
+     10042
+    ]
+   ]
+  },
+  {
+   "name": "ascenda-cabin-interior",
+   "alt": "Inside the Ascenda cabin: control panel and lighting",
+   "role": "gallery",
+   "source": "Ascenda/img-104.jpg",
+   "files": [
+    [
+     "ascenda-cabin-interior.webp",
+     [
+      626,
+      1655
+     ],
+     43994
+    ]
+   ]
+  },
+  {
+   "name": "ascenda-saloon-doors",
+   "alt": "Ascenda automatic glass saloon doors",
+   "role": "gallery",
+   "source": "Ascenda/img-024.jpg",
+   "files": [
+    [
+     "ascenda-saloon-doors.webp",
+     [
+      544,
+      481
+     ],
+     13792
+    ]
+   ]
+  },
+  {
+   "name": "ascenda-mirror-ceiling",
+   "alt": "Ascenda mirrored ceiling and touch control panel",
+   "role": "gallery",
+   "source": "Ascenda/img-022.jpg",
+   "files": [
+    [
+     "ascenda-mirror-ceiling.webp",
+     [
+      544,
+      481
+     ],
+     17776
+    ]
+   ]
+  },
+  {
+   "name": "ascenda-fold-down-seat",
+   "alt": "Ascenda fold-down seat inside the glass cabin",
+   "role": "gallery",
+   "source": "Ascenda/img-025.jpg",
+   "files": [
+    [
+     "ascenda-fold-down-seat.webp",
+     [
+      548,
+      481
+     ],
+     14386
+    ]
+   ]
+  },
+  {
+   "name": "ascenda-handrail-control",
+   "alt": "Ascenda handrail with built-in up and down controls",
+   "role": "gallery",
+   "source": "Ascenda/img-023.jpg",
+   "files": [
+    [
+     "ascenda-handrail-control.webp",
+     [
+      544,
+      481
+     ],
+     12480
+    ]
+   ]
+  },
+  {
+   "name": "ascenda-through-floor-hatch",
+   "alt": "Ascenda through-the-floor installation with sliding hatch",
+   "role": "gallery",
+   "source": "Ascenda/img-042.jpg",
+   "files": [
+    [
+     "ascenda-through-floor-hatch.webp",
+     [
+      534,
+      698
+     ],
+     15618
+    ]
+   ]
+  },
+  {
+   "name": "ascenda-mezzanine-gate",
+   "alt": "Ascenda mezzanine installation with half landing gate",
+   "role": "gallery",
+   "source": "Ascenda/img-043.jpg",
+   "files": [
+    [
+     "ascenda-mezzanine-gate.webp",
+     [
+      534,
+      696
+     ],
+     41764
+    ]
+   ]
+  }
+ ]
+}
